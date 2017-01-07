@@ -1,0 +1,245 @@
+
+.search-container input[type='text'] {
+	font-size: 12px;
+	width: 276px;
+	border: none;
+	border-radius: 5px; 
+	background: #caeff7;
+	color: #98aaac;
+	text-align: center;
+}
+
+.search-container button {
+	width: 53px;
+	font-size: 12px;
+	border: none;
+	border-radius: 5px;
+	background: #275056;
+	color: #fff;
+}
+
+.search-container button:hover {
+	background: #375056;
+}
+
+.header-top-right  a {
+	text-decoration: none;
+	color: #000;
+}
+
+.username-container a {
+	font-size: 16px;
+}
+
+.usermenu-container a {
+	font-size: 12px;
+}
+
+.usermenu-container ul li {
+	background: url("../image/pipe.png") no-repeat right center;
+	padding-right: 5px;
+}
+
+.usermenu-container ul li:last-child{
+	background: none;
+}
+
+.header-bottom-right ul li {
+	font-size: 13px;
+	line-height: 40px;
+}
+
+.topic-box-invite {
+	background: url('../image/notification-active.png') 0 50%;
+	background-repeat: no-repeat;
+	padding-left: 18px;
+	float: left;
+}
+
+.friend-request {
+	background: url('../image/friend.png') 0 50%;
+	background-repeat: no-repeat;
+	padding-left: 25px;
+	float: right;
+}
+
+.recent-search-title {
+	color: white;
+	padding-left: 12px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	background: #2fc1da;
+	background-image: url('../image/sidebar-question.png');
+	background-position: 95%;
+	background-repeat: no-repeat;
+}
+
+.recent-searches ul li {
+	background-color: #f5f5f5;
+	background-image: url('../image/sidebar-download-inactive.png');
+	background-position: 95%;
+	background-repeat: no-repeat;
+}
+
+.recent-searches ul li:hover {
+	background-color: #fff;
+	background-image: url('../image/sidebar-download-active.png');
+	background-position: 95%;
+	background-repeat: no-repeat;
+}
+
+.saved-search-title {
+	color: white;
+	padding-left: 12px;
+	background: #2fc1da;
+	background-image: url('../image/sidebar-edit.png');
+	background-position: 95%;
+	background-repeat: no-repeat;
+}
+
+.saved-searches ul li {
+	background-color: #f5f5f5;
+	background-image: url('../image/hamburger.png');
+	background-position: 95%;
+	background-repeat: no-repeat;
+	color:#000;
+}
+
+.saved-searches ul li:hover{
+	background-color: #fff;
+	background-image: url('../image/hamburger-active.png');
+	background-position: 95%;
+	background-repeat: no-repeat;
+	border-top: 1px solid #979797;
+	border-bottom: 1px solid #979797;
+	color: #2fc1da;
+}
+
+
+/* container main css */
+.main-content-heading {
+	line-height: 43px;
+	color: #fff;
+	background-color: #274f56;
+	background-image: url('../image/drop-down.png');
+	background-position: 95%;
+	background-repeat: no-repeat;
+	padding-left: 15px;
+}
+
+.main-content {
+	height: 520px;
+	overflow: scroll;
+}
+
+.post {
+	padding-top: 7px;
+	border-bottom: 1px solid #d8d8d8;
+}
+
+.post a {
+	text-decoration: none;
+}
+
+.content-wrapper {
+	padding-top: 15px;
+	padding-left: 9px;
+}
+
+.post-state {
+	font-size: 11px;
+    font-weight: bold;
+    color: #309db1;
+}
+
+.post-state-invite {
+	font-size: 11px;
+    font-weight: bold;
+    color: red;
+}
+
+.content-title {
+	color: #3f3f3f;
+
+}
+
+.content-metadata li {
+	color: #656565;
+	font-size: 12px;
+}
+
+.content-title a {
+	color: #000;
+	font-size: 14px;
+}
+
+.author {
+	color: #309eb0;
+}
+
+.subs {
+	color: #709620;
+}
+
+.normal-text {
+	color: #656565;
+	font-size: 12px
+}
+
+.topic-box {
+	color: #309eb0;
+	font-size: 12px;
+}
+
+.back-to-top {
+	text-align: right;
+	font-size: 12px;
+	padding-top: 13px;
+}
+
+.back-to-top span {
+	padding-right: 19px;
+	background: url('../image/back-to-top.png') no-repeat 100% 40%;
+}
+
+.back-to-top a {
+	text-decoration: none;
+	color: #4e4e4e;
+}
+
+.container-right-sidebar .widget-title {
+	background-image: url('../image/tv-icon.png');
+	background-position: 95%;
+	background-repeat: no-repeat;
+	padding-right: 40px;
+}
+
+.container-right-sidebar .widget-content ul li:hover {
+	background: white;
+}
+
+.footer-left ul li {
+	background: url("../image/footer-seperator.png") no-repeat 100% 75%;
+	padding-right: 9px;
+}
+
+.footer-left ul li a {
+	text-decoration: none;
+	font-size: 8px;
+	color: #979797;
+}
+
+.footer-left ul li a:hover {
+	color: #5c5c5c;
+}
+
+.footer-left ul li:last-child {
+	background: none;
+}
+
+.footer-right {
+	line-height: 45px;
+	font-size: 10px;
+	color:#979797;
+	text-align: right;
+}

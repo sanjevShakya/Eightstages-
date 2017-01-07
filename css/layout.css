@@ -1,0 +1,176 @@
+.header-wrapper {
+
+}
+
+.header-top-wrapper {
+	background: #7dd8e8;
+}
+
+.header-top-container {
+	width: 960px;
+	margin: 0 auto;
+	padding-top: 20px;
+	padding-bottom: 16px;
+}
+
+.header-top-left {
+	float: left;
+	width: 739px ;
+}
+
+.logo-container {
+	float: left;
+	width: 291px;
+}
+
+.search-container {
+	float: left;
+	width: 336px;
+	padding-top: 20px;
+	padding-left: 23px;
+}
+
+.header-top-right {
+	float: right;
+	width: 221px;
+	text-align: right;
+}
+
+.header-top-right ul li {
+	list-style: none;
+	display: inline;
+
+}
+
+.header-top-right a {
+	text-decoration: none;
+	text-align: right;
+}
+
+.header-bottom-wrapper {
+	background: #f5f5f5;
+}
+
+.header-bottom {
+	margin: 0 auto;
+	width: 960px;
+}
+
+.header-bottom ul li {
+	list-style: none;
+	display: inline;
+}
+
+.header-bottom a {
+	text-decoration: none;
+}
+
+.header-bottom-left {
+	float: left;
+	width: 650px;
+}
+
+.header-bottom-right {
+	float: right;
+	width: 310px;
+}
+
+.header-bottom-right{
+	text-align: right;
+}
+
+.container-wrapper {
+
+}
+
+.container {
+	width: 960px;
+	margin: 0 auto;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	background: url("../image/background-strip.png")0 0 repeat-y;
+}
+
+.container-left {
+	width: 770px;
+	float: left;
+}
+
+.container-left-sidebar{
+	width: 190px;
+	float: left;
+}
+
+.container-left-sidebar ul li {
+	list-style: none;
+}
+
+.container-main{
+	float: left;
+	margin-left: 20px;
+}
+
+.container-main ul li {
+	list-style: none;
+}
+
+
+.image-wrapper {
+	float: left;
+	width: 70px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.content-wrapper {
+	float: right;
+	width: 441px;
+}
+
+.content-wrapper ul li {
+	display: inline;
+}
+
+.container-right {
+	width: 190px;
+	float: right;
+}
+
+.container-right-sidebar {
+	width: 190px;
+	float: right;
+}
+
+.container-right-sidebar ul li {
+	list-style: none;
+}
+
+
+.footer-wrapper {
+	background: #dddddd;
+}
+
+.footer {
+	margin: 0 auto;
+	width: 960px;
+}
+.footer-left {
+	float: left;
+	width: 321px;
+}
+
+.footer-left ul{
+	padding: 0;
+	margin: 0;
+}
+
+.footer-left ul li {
+	list-style: none;
+	display: inline;
+	line-height: 45px;
+}
+
+.footer-right {
+	float: right;
+	width: 90px;
+}

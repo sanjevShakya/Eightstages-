@@ -1,0 +1,32 @@
+/* Widget CSS */
+
+.widget-title {
+	font-size: 14px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	color: white;
+	padding-left: 12px;
+	background: #2fc1da;
+}
+
+.widget ul li {
+	list-style: none;
+	padding-left: 12px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+}
+
+.widget-content ul li a {
+	color: #000;
+	display: block;
+	font-size: 12px;
+	padding-left: 6px;
+	padding-right: 35px;
+	text-decoration: none;
+
+}
+
+.widget-content ul li a:hover {
+	display: block;
+	color: #2fc1da;
+}
